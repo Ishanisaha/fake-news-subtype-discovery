@@ -1,0 +1,15 @@
+# data and outputs
+data/*
+!data/README.md
+!data/llm_sample_ids.csv
+results/
+figures/
+*.npy
+*.csv.gz
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/

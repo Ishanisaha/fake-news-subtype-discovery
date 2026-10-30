@@ -1,0 +1,7 @@
+transformers>=4.30
+torch>=2.0
+spacy>=3.5
+textblob>=0.17
+vaderSentiment>=3.3
+textstat>=0.7
+python-pptx>=0.6
