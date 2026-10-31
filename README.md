@@ -21,7 +21,7 @@ The framework groups fake news documents into four sub-types (propaganda, rumor,
 Python 3.10 or later.
 
 ```
-git clone https://github.com/<user>/fake-news-subtype-discovery.git
+git clone https://github.com/Ishanisaha/fake-news-subtype-discovery.git
 cd fake-news-subtype-discovery
 pip install -r requirements.txt
 ```
@@ -55,6 +55,7 @@ Run the scripts from the `src` folder in this order. All results are written to 
 | `10_consensus_numbers.py` | Final table values (run again with `boot` for the bootstrap intervals) |
 | `11_llm_baseline.py` | Zero-shot LLM baseline (needs [Ollama](https://ollama.com)) |
 | `12_figures.py` | Figures |
+| `13_controls.py` | Source and length controls (without the hyperpartisan source; length-matched samples) |
 
 `framework.py` holds the shared pipeline code and can also be run on its own for a single end-to-end run.
 
