@@ -1,6 +1,6 @@
 # Fake news sub-type discovery
 
-Code for the paper
+Code accompanying a research article that is currently under review.
 
 The framework groups fake news documents into four sub-types (propaganda, rumor, satire and clickbait) without using sub-type labels. Labels are used only at the end, to score the clusters.
 
@@ -70,7 +70,7 @@ figures/    output figures (created by 12_figures.py, not tracked)
 
 ## Citation
 
-If you use this code, please cite the paper above. The citation will be updated once the paper is published.
+If you use this code, please cite the accompanying article; the full citation will be added here once it is published.
 
 ## License
 
