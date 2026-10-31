@@ -2,8 +2,6 @@
 
 Code for the paper
 
-> I. Saha and S. Puthran, "Beyond True or False: A Two-Stream Framework for Unsupervised Fake News Sub-Type Discovery," submitted to *IEEE Access*.
-
 The framework groups fake news documents into four sub-types (propaganda, rumor, satire and clickbait) without using sub-type labels. Labels are used only at the end, to score the clusters.
 
 ## Method
